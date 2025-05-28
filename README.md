@@ -41,7 +41,7 @@ GOOGLE_CLIENT_SECRET=
    ```
 
 2. **Define Your Prisma Schema**
-   Modify `prisma/schema.prisma` based on your database structure and auth needs.
+   Modify `prisma/schema.prisma` based on your database structure and auth need. Use this page for reference on your ORD https://authjs.dev/getting-started/adapters/prisma?framework=Next.js.
 
 3. **Apply Your Migration**
 
